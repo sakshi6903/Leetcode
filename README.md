@@ -1,3 +1,3 @@
 # Leetcode
-Effective Solutions 
+Effective Solutions ,
 language Used: C++
